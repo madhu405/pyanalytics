@@ -1,5 +1,5 @@
 #Daily Practise File
-#-----------------------------
+#Madhulika-----------------------------
 #Data Structures
 #List - ordered collection of items, mutable : [square ]
 list1 = [1,2,3,4,5,'a','Dhiraj',"Upadhyaya",True]  #list type of object with data
